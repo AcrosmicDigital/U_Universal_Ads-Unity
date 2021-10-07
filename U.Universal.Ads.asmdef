@@ -1,0 +1,17 @@
+{
+    "name": "U.Universal.Ads",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ff6de30450f3748908ff580f6ec64d9a",
+        "GUID:eb51336d7912e41739bc491a768fa824"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

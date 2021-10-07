@@ -1,0 +1,18 @@
+{
+    "name": "U.Universal.Ads.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0f4071ab10cb88e4d8a5f6c765031507"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
