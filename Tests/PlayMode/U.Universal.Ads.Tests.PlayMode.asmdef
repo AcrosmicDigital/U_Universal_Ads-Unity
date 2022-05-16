@@ -1,24 +1,3 @@
 {
-    "name": "U.Universal.Ads.Tests.PlayMode",
-    "rootNamespace": "",
-    "references": [
-        "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner",
-        "U.Universal.Ads",
-        "UnityEngine.Advertisements",
-        "UnityEngine.Advertisements.Editor"
-    ],
-    "includePlatforms": [],
-    "excludePlatforms": [],
-    "allowUnsafeCode": false,
-    "overrideReferences": true,
-    "precompiledReferences": [
-        "nunit.framework.dll"
-    ],
-    "autoReferenced": false,
-    "defineConstraints": [
-        "UNITY_INCLUDE_TESTS"
-    ],
-    "versionDefines": [],
-    "noEngineReferences": false
+	"name": "U.Universal.Ads.Tests.PlayMode"
 }
